@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
+  "name": "blueelauncher",
   "version": "2.2.1",
-  "productName": "Helios Launcher",
-  "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "productName": "BlueeLauncher",
+  "description": "Launcher Minecraft Moddée",
+  "author": "Daniel Scalzi (https://github.com/dscalzi/) et BlueeBzz",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/BlueeBzz/BlueeLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/BlueeBzz/BlueeLauncher/issues"
   },
   "private": true,
   "main": "index.js",
@@ -46,6 +46,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dscalzi/HeliosLauncher.git"
+    "url": "git+https://github.com/BlueeBzz/BlueeLauncher.git"
   }
 }
